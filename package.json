@@ -1,0 +1,21 @@
+{
+  "name": "momogesa-tea",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://twitter.com/gesa_momo",
+  "repository": {
+    "url": "https://github.com/momoges/tehmomo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "momogesa"
+  ],
+  "author": "momogesa",
+  "license": "ISC",
+  "dependencies": {
+    "text-count": "^1.1.0"
+  }
+}
